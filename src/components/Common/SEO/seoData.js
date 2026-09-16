@@ -1,4 +1,4 @@
-const SITE_URL = "https://funngro-revamp.netlify.app";
+const SITE_URL = "https://funnngro-revamp.netlify.app";
 const SITE_NAME = "Funngro";
 
 const organizationSchema = {

@@ -3,22 +3,22 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 >
   <url>
-    <loc>https://funngro-revamp.netlify.app/</loc>
+    <loc>https://funnngro-revamp.netlify.app/</loc>
   </url>
 
   <url>
-    <loc>https://funngro-revamp.netlify.app/about</loc>
+    <loc>https://funnngro-revamp.netlify.app/about</loc>
   </url>
 
   <url>
-    <loc>https://funngro-revamp.netlify.app/teens</loc>
+    <loc>https://funnngro-revamp.netlify.app/teens</loc>
   </url>
 
   <url>
-    <loc>https://funngro-revamp.netlify.app/companies</loc>
+    <loc>https://funnngro-revamp.netlify.app/companies</loc>
   </url>
 
   <url>
-    <loc>https://funngro-revamp.netlify.app/contact</loc>
+    <loc>https://funnngro-revamp.netlify.app/contact</loc>
   </url>
 </urlset>
