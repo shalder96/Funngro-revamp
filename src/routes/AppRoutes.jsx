@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import { Suspense, lazy } from "react";
 import MainLayout from "../layouts/MainLayout";
 
-const Home = lazy(() => import("@/pages/Home"));
+const Home = lazy(() => import("@/pages/Home/Home"));
 const About = lazy(() => import("@/pages/About"));
 const Teens = lazy(() => import("@/pages/Teens"));
 const Companies = lazy(() => import("@/pages/Companies"));

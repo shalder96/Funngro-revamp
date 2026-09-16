@@ -1,3 +1,6 @@
+import SEO from "@/components/Common/SEO/SEO";
+import { seoData } from "@/components/Common/SEO/seoData";
+
 import Section from "@/components/Common/Section";
 import Container from "@/components/Common/Container";
 
@@ -16,6 +19,7 @@ import { timelineData } from "./data/timelineData";
 export default function About() {
   return (
     <>
+      <SEO {...seoData.about} />
       {/* Hero */}
       <Section
         background="light"

@@ -1,3 +1,6 @@
+import SEO from "@/components/Common/SEO/SEO";
+import { seoData } from "@/components/Common/SEO/seoData";
+
 import Section from "@/components/Common/Section";
 import Container from "@/components/Common/Container";
 
@@ -11,6 +14,7 @@ import CTASection from "./components/CTASection";
 export default function Contact() {
   return (
     <>
+      <SEO {...seoData.contact} />
       {/* ========================================
                     Hero
       ======================================== */}
