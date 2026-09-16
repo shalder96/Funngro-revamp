@@ -1,13 +1,7 @@
-import {
-  MapPin,
-  Mail,
-  Phone,
-  Clock,
-  Facebook,
-  Instagram,
-  Linkedin,
-  Twitter,
-} from "lucide-react";
+import { MapPin, Mail, Phone, Clock } from "lucide-react";
+
+import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 export const contactInfo = [
   {
@@ -52,27 +46,27 @@ export const socialLinks = [
     id: 1,
     name: "Facebook",
     url: "#",
-    icon: Facebook,
+    icon: FaFacebook,
   },
 
   {
     id: 2,
     name: "Instagram",
     url: "#",
-    icon: Instagram,
+    icon: FaInstagram,
   },
 
   {
     id: 3,
     name: "LinkedIn",
     url: "#",
-    icon: Linkedin,
+    icon: FaLinkedin,
   },
 
   {
     id: 4,
     name: "Twitter",
     url: "#",
-    icon: Twitter,
+    icon: FaXTwitter,
   },
 ];

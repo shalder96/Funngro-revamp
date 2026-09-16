@@ -284,11 +284,11 @@ export const navLinks = [
   },
   {
     title: "For Teens",
-    path: "/teen",
+    path: "/teens",
   },
   {
     title: "For Companies",
-    path: "/company",
+    path: "/companies",
   },
   {
     title: "About",
